@@ -41,9 +41,9 @@
   <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/>
   <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/>
   <img src="https://camo.githubusercontent.com/26f6cb8597b93a72e469fd1274b0990218fea21eaa495dd88b5d49b0a9d63e1e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
-  <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572"/>
+  <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
-  <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
   <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
 </p>
@@ -65,7 +65,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/next
 
 ### 🔌 API & Testing
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e"/>
   <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/>
 </p>
@@ -82,7 +82,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/next
 <p>
   <img src="https://camo.githubusercontent.com/838a459c77954c02c35fbc4155b6cd260bfd689da42425d632458d7334743ca0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e65746c696679"/>
   <img src="https://camo.githubusercontent.com/698ad1a1d2b7021ee0d8f3dd5f17415844ae44c1d078979e46b301e1c5d542b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76657263656c"/>
-  <img src="https://camo.githubusercontent.com/c0208dd7c253d80f774ce2c1c86b8c0d00c5790752bad100f197a2c5891445b2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656e646572"/>
+  <img src="https://camo.githubusercontent.com/c0208dd7c253d80f774ce2c1c86b8c0d00c5790752bad100f197a2c5891445b2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656e646572" width="40" height="40"/>
 </p>
 
 ### 📚 Programming Languages
