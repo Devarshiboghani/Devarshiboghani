@@ -45,16 +45,16 @@
   <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
   <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
   <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=width-45&height-45"/>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Middleware-FF6C37?style=flat-square&logo=nginx&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"/>
+  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"/>
+  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/>
+  <img src="https://camo.githubusercontent.com/feb5f7c5be398ef2fa18976e35d8bc8720e062c43ee6705faa3cc3e4e83411c4/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6a736f6e776562746f6b656e73"/>
+  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"/>
 </p>
 
 ### 🗄️ Database
