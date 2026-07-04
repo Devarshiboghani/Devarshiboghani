@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Devarshi Boghani
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Apps+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React.js+%7C+Next.js+%7C+Developer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Apps+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 💻 Full Stack Developer | Building Responsive & High-Performance Web Apps
 
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/devarshi-boghani-64302b399/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="[https://portfolio-livewebsite.netlify.app/](https://portfolio-livewebsite.netlify.app/)">
+  <a href="https://portfolio-livewebsite.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:boghanidevarshi@gmail.com">
