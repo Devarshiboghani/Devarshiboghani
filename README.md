@@ -70,10 +70,10 @@
 
 ### 🛠 Development Tools
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"/>
+  <img src="https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562"/>
+  <img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"/>
+  <img src="https://camo.githubusercontent.com/d9cccb001555e5b2374e3f44dc15b11aa34b74afab4b46a0a01634bbb8b53222/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e706d"/>
 </p>
 
 ### 🚀 Deployment & Hosting
