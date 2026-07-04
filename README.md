@@ -45,7 +45,7 @@
   <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
   <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
   <img
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?color=FFFFFF" width="40" height="40"/>
 </p>
 
 ### ⚙️ Backend
