@@ -78,9 +78,9 @@
 
 ### 🚀 Deployment & Hosting
 <p>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/838a459c77954c02c35fbc4155b6cd260bfd689da42425d632458d7334743ca0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e65746c696679"/>
+  <img src="https://camo.githubusercontent.com/698ad1a1d2b7021ee0d8f3dd5f17415844ae44c1d078979e46b301e1c5d542b7/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76657263656c"/>
+  <img src="https://camo.githubusercontent.com/c0208dd7c253d80f774ce2c1c86b8c0d00c5790752bad100f197a2c5891445b2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f72656e646572"/>
 </p>
 
 ### 📚 Programming Languages
