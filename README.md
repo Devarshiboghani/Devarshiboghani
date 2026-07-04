@@ -40,10 +40,10 @@
 <p>
   <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/>
   <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/>
-  <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/26f6cb8597b93a72e469fd1274b0990218fea21eaa495dd88b5d49b0a9d63e1e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
+  <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572"/>
+  <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
+  <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
 </p>
 
 ### ⚙️ Backend
@@ -57,15 +57,15 @@
 
 ### 🗄️ Database
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white"/>
+  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"/>
+  <img src="https://camo.githubusercontent.com/90d1b566580e19359225db5e9c8faf2c82a60c22ef79783bcd0bb1ea67a7c1c2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6d6f6e676f6f7365"/>
 </p>
 
 ### 🔌 API & Testing
 <p>
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=flat-square&logo=api&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg"/>
+  <img src="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e"/>
+  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/>
 </p>
 
 ### 🛠 Development Tools
