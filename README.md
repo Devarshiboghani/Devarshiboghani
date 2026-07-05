@@ -63,8 +63,6 @@
   <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/><br>
       <b>Vite</b>
     </td>
-  </tr>
-</table>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=for-the-badge&logo=next.js&logoColor=white" width="40" height="40"/><br>
   <b>Next.js</b>
     </td>
@@ -72,12 +70,26 @@
 </table>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"/>
-  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"/>
-  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/>
-  <img src="https://camo.githubusercontent.com/feb5f7c5be398ef2fa18976e35d8bc8720e062c43ee6705faa3cc3e4e83411c4/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6a736f6e776562746f6b656e73" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73"/><br>
+       <b>Node.js</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/6c581f9592fa01dbdcf471f2691504e88c96d4840ce2710e9080513cdbed7c21/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373"/><br>
+       <b>Express.js</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/><br>
+       <b>REST APIs</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/feb5f7c5be398ef2fa18976e35d8bc8720e062c43ee6705faa3cc3e4e83411c4/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6a736f6e776562746f6b656e73" width="40" height="40"/><br>
+      <b>JWT Auth</b>
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Database
 <p>
