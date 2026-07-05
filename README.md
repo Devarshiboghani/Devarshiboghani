@@ -36,7 +36,7 @@
 
 ## 🛠 Tech Stack
 
-<h4>🎨 Frontend</h4>
+<h3>🎨 Frontend</h4>
 <table>
   <tr>
     <td align="center" width="96">
