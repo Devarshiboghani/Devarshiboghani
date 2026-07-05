@@ -44,7 +44,7 @@
   <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572" width="40" height="40"/>
   <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
   <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=for-the-badge&logo=next.js&logoColor=white" width="40" height="40"/>
 
 ### ⚙️ Backend
 <p>
