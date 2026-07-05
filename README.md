@@ -41,7 +41,7 @@
   <tr>
     <td align="center" width="96">
   <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/><br>
-      <b>HTML 5</b>
+      <sub><b>HTML5</b></sub>
     </td>
     <td align="center" width="96">
   <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/><br>
@@ -62,7 +62,8 @@
     <td align="center" width="96">
   <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/><br>
       <b>Vite</b>
-    </td>
+   </td>
+    <td align="center" width="96">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=for-the-badge&logo=next.js&logoColor=white" width="40" height="40"/><br>
   <b>Next.js</b>
     </td>
