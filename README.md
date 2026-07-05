@@ -70,7 +70,7 @@
   </tr>
 </table>
 
-### ⚙️ Backend
+<h3>⚙️ Backend</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-### 🗄️ Database
+<h3>🗄️ Database</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -106,7 +106,7 @@
     </tr>
 </table>
 
-### 🔌 API & Testing
+<h3>🔌 API & Testing</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -124,7 +124,7 @@
     </tr>
 </table>
 
-### 🛠 Development Tools
+<h3>🛠 Development Tools</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -146,7 +146,7 @@
   </tr>
 </table>
 
-### 🚀 Deployment & Hosting
+<h3>🚀 Deployment & Hosting</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -156,7 +156,7 @@
   </tr>
 </table>
 
-### 📚 Programming Languages
+<h3>📚 Programming Languages</h3>
 <table>
   <tr>
     <td align="center" width="96">
