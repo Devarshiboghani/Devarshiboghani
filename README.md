@@ -36,7 +36,7 @@
 
 ## 🛠 Tech Stack
 
-<h3 style="font-size:18px;">🎨 Frontend</h4>
+<h3 style="font-size:16px;">🎨 Frontend</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -70,7 +70,7 @@
   </tr>
 </table>
 
-<h3 style="font-size:18px;">⚙️ Backend</h3>
+<h3 style="font-size:16px;">⚙️ Backend</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -92,7 +92,7 @@
   </tr>
 </table>
 
-<h3 style="font-size:18px;">🗄️ Database</h3>
+<h3 style="font-size:16px;">🗄️ Database</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -106,7 +106,7 @@
     </tr>
 </table>
 
-<h3 style="font-size:18px;">🔌 API & Testing</h3>
+<h3 style="font-size:16px;">🔌 API & Testing</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -124,7 +124,7 @@
     </tr>
 </table>
 
-<h3 style="font-size:18px;">🛠 Development Tools</h3>
+<h3 style="font-size:16px;">🛠 Development Tools</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -146,7 +146,7 @@
   </tr>
 </table>
 
-<h3 style="font-size:18px;">🚀 Deployment & Hosting</h3>
+<h3 style="font-size:16px;">🚀 Deployment & Hosting</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -156,7 +156,7 @@
   </tr>
 </table>
 
-<h3 style="font-size:18px;">📚 Programming Languages</h3>
+<h3 style="font-size:16px;">📚 Programming Languages</h3>
 <table>
   <tr>
     <td align="center" width="96">
