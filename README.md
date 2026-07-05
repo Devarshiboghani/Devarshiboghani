@@ -37,14 +37,39 @@
 ## 🛠 Tech Stack
 
 ### 🎨 Frontend
-<p>
-  <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/>
-  <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/>
-  <img src="https://camo.githubusercontent.com/26f6cb8597b93a72e469fd1274b0990218fea21eaa495dd88b5d49b0a9d63e1e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/>
-  <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/>
-  <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=for-the-badge&logo=next.js&logoColor=white" width="40" height="40"/>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/e33c2722bc49b4b7c2a45d5a09f8f04b1390dfed4e602559d459e1ac3978c22f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c"/><br>
+      <b>HTML 5</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/172955bb3607509689ce7f348b40c8c7bbe6335b071db669635340784ce610ec/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373"/><br>
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/26f6cb8597b93a72e469fd1274b0990218fea21eaa495dd88b5d49b0a9d63e1e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374"/><br>
+      <b>React.js</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/126b54b92f98502bd1891313f58635819e84f8b6988445da8465968cc934aa3d/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f7265616374726f75746572" width="40" height="40"/><br>
+       <b>React Router</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/e83fff4c5c241ec2e3a9dd56446472eb19402acc51e1b1f27d727d460eee4f08/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265647578"/><br>
+      <b>Redux Toolkit</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/046bb2928d922fed5fcece14e9ddcf40a43b9e120d43d269f2cf510e32d916ed/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465"/><br>
+      <b>Vite</b>
+    </td>
+  </tr>
+</table>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg?style=for-the-badge&logo=next.js&logoColor=white" width="40" height="40"/><br>
+  <b>Next.js</b>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend
 <p>
