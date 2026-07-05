@@ -92,38 +92,90 @@
 </table>
 
 ### 🗄️ Database
-<p>
-  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"/>
-  <img src="https://camo.githubusercontent.com/90d1b566580e19359225db5e9c8faf2c82a60c22ef79783bcd0bb1ea67a7c1c2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6d6f6e676f6f7365" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/3f64455ed2487f1300832f38d3de984a7260ba5c5887f4d9e4e9959e8911e64a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6d6f6e676f6462"/><br>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/90d1b566580e19359225db5e9c8faf2c82a60c22ef79783bcd0bb1ea67a7c1c2/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6d6f6e676f6f7365" width="40" height="40"/><br>
+      <b>Mongoose</b>
+    </td>
+    </tr>
+</table>
 
 ### 🔌 API & Testing
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e"/>
-  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40" height="40"/><br>
+      <b>Axios</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/8829178716e96490611624f85c953c0805643f4d1645057ba5d29d021957d407/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e"/><br>
+      <b>Postman</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/dc0b714eec3ce96fdaa3281a5417f3da4146424debd3e3fe8f9704f6f868929a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d66617374617069"/><br>
+      <b>RESTful APIs</b>
+    </td>
+    </tr>
+</table>
 
 ### 🛠 Development Tools
-<p>
-  <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"/>
-  <img src="https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562"/>
-  <img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"/>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/e2a58fa150850c12f8b8785212c8becf348cfbbfbe789ccb24e8b97bd166d6cf/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974"/><br>
+      <b>Git</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/7f0e8a6baecb909b9f947b74e4f89aaa25cf5b2d5273686747ff45d8b83bf8dd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562"/><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/1e321c65f17c033c981549fa030b2f9df52d03f3a536e79d91d4b6676642ce40/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465"/><br>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="96">
   <img src="https://camo.githubusercontent.com/d9cccb001555e5b2374e3f44dc15b11aa34b74afab4b46a0a01634bbb8b53222/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e706d"/>
-</p>
+      <b>npm</b>
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Deployment & Hosting
-<p>
-  <img src="https://camo.githubusercontent.com/838a459c77954c02c35fbc4155b6cd260bfd689da42425d632458d7334743ca0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e65746c696679"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/838a459c77954c02c35fbc4155b6cd260bfd689da42425d632458d7334743ca0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e65746c696679"/><br>
+       <b>Netlify</b>
+    </td>
+  </tr>
+</table>
 
 ### 📚 Programming Languages
-<p>
-  <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73"/>
-  <img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473"/>
-  <img src="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63"/>
-  <img src="https://camo.githubusercontent.com/30a6d4761b1a48f9bf898d47a9bfd39bcb49e16bc76358f3058bcaef8c3a5607/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73"/><br>
+            <b>JavaScript</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473"/><br>      
+      <b>TypeScript</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/56931130a65311bc0c04a4bd2ba02fbcdcffae81b47b0604987427d0c8d841f2/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63"/><br>
+            <b>C</b>
+    </td>
+    <td align="center" width="96">
+  <img src="https://camo.githubusercontent.com/30a6d4761b1a48f9bf898d47a9bfd39bcb49e16bc76358f3058bcaef8c3a5607/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070"/><br>
+            <b>C++</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
